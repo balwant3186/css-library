@@ -1,15 +1,16 @@
 // Variables and functions
 @import 'variables';
+@import 'functions';
 
 // base & layout
 @import 'base';
-
 
 // colors
 @import 'colors';
 
 // components (button, card, navbar)
-@import './components/card'
+@import './components/card';
+@import './components/button';
 
 // utilities (margin, padding, opacity)
 
